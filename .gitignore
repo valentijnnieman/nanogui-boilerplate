@@ -10,3 +10,5 @@ compile_commands.json
 CTestTestfile.cmake
 .vscode/
 .nanogui-boilerplate
+glad/libglad.a
+glad/libglad.so
