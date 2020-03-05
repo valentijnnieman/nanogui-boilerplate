@@ -9,6 +9,6 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 .vscode/
-.nanogui-boilerplate
+nanogui-boilerplate
 glad/libglad.a
 glad/libglad.so
